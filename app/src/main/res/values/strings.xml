@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GetrytTask</string>
+    <string name="explanation_access_to_appusage_is_not_enabled"><![CDATA[Failed to retrieve app usage         statistics. You may need to enable access         for this app through Settings > Security > Apps with usage access]]></string>
+    <string name="used_time">Used Time :</string>
+    <string name="package_name">Package Name :</string>
+    <string name="permission_requires">Permission Requires</string>
+    <string name="permission_note">This app requires USAGE ACCESS SETTINGS to get application usage details. Please grant permission to continue.</string>
+    <string name="enable_permission">Enable Permission</string>
+    <string name="weekly_apps_usage">Application Weekly Usage Report</string>
+    <array name="action_list">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </array>
+</resources>
